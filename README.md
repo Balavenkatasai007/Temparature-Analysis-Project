@@ -1,6 +1,6 @@
 # 🌡️ Temperature Analysis and Prediction Project
 
-This project analyzes 20 years of temperature data using Python and predicts future temperatures using machine learning techniques. It also visualizes trends through plots,This project uses temperature data for Nellore, India, downloaded from the NASA POWER website
+This project analyzes 25 years of temperature data using Python and predicts future temperatures using machine learning techniques. It also visualizes trends through plots,This project uses temperature data for Nellore, India, downloaded from the NASA POWER website
 
 ---
 
